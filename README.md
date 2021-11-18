@@ -1,2 +1,3 @@
 # web com bootstrap e javascript
- Criar um projeto html com uma estrutura web utilizando bootstrap e javascript
+ 
+Tela de cadastro com html e bootstrap com validaçôes em javascript.
