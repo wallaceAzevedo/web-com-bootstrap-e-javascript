@@ -23,3 +23,5 @@ Senha/password : * campo obrigatorio,
 * A senha precisa um caractere maiúsculo e um número.
 
 Confirmação de senha : * Este campo precisa estar igual ao password
+
+Checkbox : * alerta  de aviso para aceitar os termos de uso.
