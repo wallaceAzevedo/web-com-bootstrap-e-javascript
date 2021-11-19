@@ -10,7 +10,6 @@ class Validator {
         'data-equal',
         'data-password-validate',
         'data-required-checkbox',
-        'data-submit-Form'
       ]
     }
   
@@ -85,7 +84,7 @@ class Validator {
   
       let inputValue = input.value;
   
-      let errorMessage = `Este campo não aceita números`;
+      let errorMessage = `Este campo não aceita caracteres especiais`;
   
       if(!re.test(inputValue)) {
         this.printMessage(input, errorMessage);
