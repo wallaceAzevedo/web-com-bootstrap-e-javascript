@@ -20,8 +20,6 @@ Sobrenome: * Este campo não aceita caracteres especiais,
 
 Senha/password : * campo obrigatorio,
 
-* Este campo é obrigatório,
-
 * A senha precisa um caractere maiúsculo e um número.
 
 Confirmação de senha : * Este campo precisa estar igual ao password
